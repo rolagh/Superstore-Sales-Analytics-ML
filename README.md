@@ -102,10 +102,10 @@ This page focuses on product performance, geographic sales distribution, shippin
 ## Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](executive_summary.png)
 
 ### Product & Geographic Analysis
-![Product & Geographic Analysis](images/product_geographic_analysis.png)
+![Product & Geographic Analysis](product_geographic_analysis.png)
 
 ## Key Insights
 
